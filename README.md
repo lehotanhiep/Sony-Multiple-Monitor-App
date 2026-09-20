@@ -28,7 +28,7 @@ Other Sony cameras may work when they expose compatible Sony PTP/IP properties a
 The standard operator view keeps camera status, exposure controls, ALL CAM settings, Playback, REC, and HOLD available around the Live View area.
 
 <p align="center">
-  <img src="C:\Users\Leo-Workstation\Documents\SonyMultipleMonitor-V1.0.0\README_01_MAIN_MONITOR.png" alt="Sony Multiple Monitor V1.0.0 - two-camera monitor" width="100%">
+  <img src="README_01_MAIN_MONITOR.png" alt="Sony Multiple Monitor V1.0.0 - two-camera monitor" width="100%">
 </p>
 
 ### False Color
